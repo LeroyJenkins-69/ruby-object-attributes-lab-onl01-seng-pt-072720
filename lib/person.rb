@@ -9,7 +9,7 @@
     @name
   end
   
-  def breed=(person_job)
+  def job=(person_job)
     @job = person_job
   end
   
